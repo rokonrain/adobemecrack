@@ -1,5 +1,5 @@
 <hr>
-<h3 align=center> <img src='https://ltdfoto.ru/images/2024/01/23/zxc.png'></h3>
+<h3 align=center> <img src='https://3dfootage.ru/images/screen/9/adobe_media_encoder.JPG'></h3>
 <table align=center>
   <tr>
     <th>Soft</th>
